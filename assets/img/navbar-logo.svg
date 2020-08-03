@@ -7,8 +7,6 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    id="svg13"
-   height="100"
-   width="100"
    viewBox="0 0 640 640"
    preserveAspectRatio="xMidYMid meet"
    version="1.1">
@@ -38,7 +36,7 @@
        font-size="189"
        y="236.55"
        x="196.55"
-       id="ceeEt7KoD"><tspan
+       id="f8vaDal1A"><tspan
          id="tspan2"
          text-anchor="start"
          dominant-baseline="text-before-edge"
@@ -57,13 +55,13 @@
   <g
      id="g11">
     <g
-       id="ecffaiJeO">
+       id="b2oLy7t0C">
       <use
          id="use8"
          fill-opacity="1"
          fill="#fed136"
          opacity="1"
-         xlink:href="#ceeEt7KoD" />
+         xlink:href="#f8vaDal1A" />
     </g>
   </g>
 </svg>
